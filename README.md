@@ -32,7 +32,7 @@ tensorboard --logdir logs/
 ```
 cd ..
 ```
-- get hcp_visualize from media/chikazoe/koyama_space/data/hcp_visualize
+- get hcp_visualize from media/chikazoe/koyama_space/data/hcp_visualize (Please refer to the hcp_visualize channel instructions for details)
 - Execute Back_to_Brain.ipynb in order to get visualization/weights/100206encoder_weight_corr0.2291.csv
   - Back_to_Brain.ipynb : Transformation of the generated image into the underlying fMRI data
 - Execute target_of_MATLABmatrix_to_CIfTI.m in order to get *.nii file
